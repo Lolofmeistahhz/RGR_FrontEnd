@@ -7,7 +7,7 @@
 }
 
 .header {
-  background: url("/Resources/Img/header-bg.png");
+  background: url("Resources/Img/header-bg.png");
   -o-object-fit: cover;
      object-fit: cover;
 }
@@ -152,7 +152,7 @@
   padding-bottom: 150px;
   row-gap: 30px;
   height: 985px;
-  background: url("/Resources/Img/slider-bg.png");
+  background: url("Resources/Img/slider-bg.png");
   -o-object-fit: cover;
      object-fit: cover;
   margin: 250px 0;

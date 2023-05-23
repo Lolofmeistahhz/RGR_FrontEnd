@@ -8,7 +8,7 @@
 
     .header {
 
-        background: url("/Resources/Img/header-bg.png");
+        background: url("Resources/Img/header-bg.png");
         object-fit: cover;
 
         &__black-filter {
@@ -184,7 +184,7 @@
                     padding-bottom: 150px;
                     row-gap: 30px;
                     height: 985px;
-                    background: url("/Resources/Img/slider-bg.png");
+                    background: url("Resources/Img/slider-bg.png");
                     object-fit: cover;
                     margin: 250px 0;
                     display: flex;
